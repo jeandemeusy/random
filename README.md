@@ -11,4 +11,4 @@ Cocher **Utiliser l'adresse IP suivante** et saisir:
  - IP : 192.168.0.1
  - Masque : 255.255.255.0
 
-Vous pouvez tout fermer  *~~y compris votre gueule~~* et faire un compliement à l'assistante.
+Vous pouvez tout fermer et faire un compliment à l'assistant.
